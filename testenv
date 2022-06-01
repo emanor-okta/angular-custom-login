@@ -1,0 +1,2 @@
+ISSUER=https://{ORG}.okta.com/oauth2/default
+CLIENT_ID={Client_id}
